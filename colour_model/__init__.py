@@ -1,9 +1,6 @@
 from dataclasses import dataclass
 from typing import List, Tuple
-
 import cv2
-import numpy as np
-from rich import print
 
 
 @dataclass
