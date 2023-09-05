@@ -1,6 +1,0 @@
-setup.py
-colour_model/__init__.py
-colour_model.egg-info/PKG-INFO
-colour_model.egg-info/SOURCES.txt
-colour_model.egg-info/dependency_links.txt
-colour_model.egg-info/top_level.txt
