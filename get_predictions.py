@@ -1,13 +1,5 @@
-import inspect
-import logging
-from typing import List, Tuple
-
 import fiftyone as fo
-import torch
-from icecream import ic
 from PIL import Image
-from torchvision import transforms
-from vision.tools.predictions import EmptyPredictions, Predictions
 
 def get_predictions(
     dataset: fo.Dataset,
