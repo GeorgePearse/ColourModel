@@ -38,7 +38,7 @@ class ColourStore:
     yellow: Colour
     brown: Colour
 
-
+# https://www.flatuicolorpicker.com/purple-rgb-color-model/
 colour_store = ColourStore(
     black=Colour(
         lower=(0, 0, 0), upper=(180, 255, 30)
