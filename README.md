@@ -6,8 +6,10 @@ Just
 pip install colour-model
 ```
 
-To 'run inference'
+To 'run inference':
 ```
+from colour_model import ColourModel
+
 colour_model = ColourModel()
 colour_model.predict(file_path)
 ```
